@@ -34,6 +34,3 @@ steps:
         zipAfterPublish: true
   
 - task: PublishBuildArtifacts@1
-  displayName: "Upload Artifacts"
-  inputs:
-    pathtoPublish: '$(Build.ArtifactStagingDirectory)' 
