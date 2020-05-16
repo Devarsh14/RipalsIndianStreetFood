@@ -133,9 +133,6 @@ C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\bin\
 C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\RipalsIndianStreetFood.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\RipalsIndianStreetFood.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\RipalsIndianStreetFood.csproj.CoreCompileInputs.cache
 C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
 C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
 C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
@@ -175,3 +172,6 @@ C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\
 C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\RipalsIndianStreetFood.genruntimeconfig.cache
+C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\RipalsIndianStreetFood.csproj.CoreCompileInputs.cache
+C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\RipalsIndianStreetFood.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Devarsh\source\repos\RipalsIndianStreetFood\RipalsIndianStreetFood\obj\Debug\netcoreapp3.1\RipalsIndianStreetFood.MvcApplicationPartsAssemblyInfo.cache
